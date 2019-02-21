@@ -1,0 +1,17 @@
+basit rasgele
+sistematik rasgele
+basit seri
+frekans seri
+kombinasyon
+permütasyon
+mod
+medyan
+aritmetik ort
+geometrik ort
+harmonik ork
+varyans
+standart sapma
+ortalama mutlak sapma
+4te1 lik
+çarpıtlık
+basıtlık
