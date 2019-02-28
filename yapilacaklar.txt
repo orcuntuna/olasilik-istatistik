@@ -6,7 +6,7 @@
     permütasyon
 mod
     medyan
-aritmetik ort
+    aritmetik ort
 geometrik ort
 harmonik ork
 varyans
