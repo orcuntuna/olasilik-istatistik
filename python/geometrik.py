@@ -7,6 +7,6 @@ for i in range(adet):
     dizi.append(sayi)
     carpim *= sayi
 
-kok = carpim ** (1/2)
+kok = carpim ** (1/adet)
 
 print("Geometrik ortalama: ", round(kok,3))

@@ -4,10 +4,10 @@
     frekans seri
     kombinasyon
     permütasyon
-mod
+    mod
     medyan
     aritmetik ort
-geometrik ort
+    geometrik ort
 harmonik ork
 varyans
 standart sapma
