@@ -1,11 +1,11 @@
-basit rasgele
-sistematik rasgele
-basit seri
-frekans seri
-kombinasyon
-permütasyon
+    basit rasgele
+    sistematik rasgele
+    basit seri
+    frekans seri
+    kombinasyon
+    permütasyon
 mod
-medyan
+    medyan
 aritmetik ort
 geometrik ort
 harmonik ork
