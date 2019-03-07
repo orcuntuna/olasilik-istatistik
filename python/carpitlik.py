@@ -9,7 +9,7 @@ for x in range(adet):
     sayi = dizi[x]
     toplamlar += sayi
 
-aritmatik_ort = toplamlar // adet
+aritmatik_ort = toplamlar / adet
 
 ust = 0
 for i in dizi:
