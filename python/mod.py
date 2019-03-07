@@ -12,7 +12,6 @@ for i in range(len(dizi)-1):
             dizi[j] = dizi[j+1]
             dizi[j+1] = temp
 
-
 maks = -1
 
 for i in range(adet):

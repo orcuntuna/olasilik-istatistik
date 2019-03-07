@@ -8,7 +8,7 @@
     medyan
     aritmetik ort
     geometrik ort
-harmonik ork
+    harmonik ork
 varyans
 standart sapma
 ortalama mutlak sapma
