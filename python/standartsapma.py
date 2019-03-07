@@ -16,3 +16,4 @@ for i in dizi:
     ust += (aritmatik_ort-i) ** 2
 
 sonuc = (ust/(adet-1)) ** (1/2)
+print(sonuc)
