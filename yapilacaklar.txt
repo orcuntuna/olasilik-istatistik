@@ -9,9 +9,9 @@
     aritmetik ort
     geometrik ort
     harmonik ork
-varyans
-standart sapma
+    varyans
+    standart sapma
 ortalama mutlak sapma
 4te1 lik
-çarpıtlık
-basıtlık
+    çarpıtlık
+    basıtlık
