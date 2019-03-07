@@ -11,7 +11,7 @@
     harmonik ork
     varyans
     standart sapma
-ortalama mutlak sapma
+    ortalama mutlak sapma
 4te1 lik
     çarpıtlık
     basıtlık
