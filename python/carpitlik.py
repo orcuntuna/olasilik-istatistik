@@ -13,7 +13,7 @@ aritmatik_ort = toplamlar / adet
 
 ust = 0
 for i in dizi:
-    ust += (aritmatik_ort-i) ** 3
+    ust += (i-aritmatik_ort) ** 3
 
 sonuc = (ust/(adet-1))
 print(sonuc)
