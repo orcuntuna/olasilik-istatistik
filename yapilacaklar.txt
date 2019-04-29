@@ -15,3 +15,7 @@
 4te1 lik
     çarpıtlık
     basıtlık
+frekans tablosu
+toplam olasılık
+bayes
+dağılım belirleme
