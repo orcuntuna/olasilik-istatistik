@@ -57,9 +57,31 @@ for i in range(len(alt_sinirlar)):
     sinif_frekanslari.append(frekans)
 
 
+sinif_orta_noktalar = []
+
+for i in range(len(alt_sinirlar)):
+    sinif_orta_noktalar.append((sinif_alt_sinirlar[i] + sinif_ust_sinirlar[i]) / 2)
+
+sinif_eklenik_frekanslari = []
+eklenik_temp = 0
+
+for i in range(len(alt_sinirlar)):
+    eklenik_temp += sinif_frekanslari[i]
+    sinif_eklenik_frekanslari.append(eklenik_temp)
+
+sinif_oransal_frekanslari = []
+
+for i in range(len(alt_sinirlar)):
+    sinif_oransal_frekanslari.append(sinif_frekanslari[i] / len(dizi))
+
+sinif_eklenik_oransal_frekanslari = []
+
+for i in range(len(alt_sinirlar)):
+    sinif_eklenik_oransal_frekanslari.append(sinif_eklenik_frekanslari[i] / len(dizi))
+
 # çıktı
 
 for i in range(len(alt_sinirlar)):
-    print( str(alt_sinirlar[i]) + " - " + str(ust_sinirlar[i]) + "\t" + str(frekanslar[i]) + "\t" + str(sinif_alt_sinirlar[i]) + " - " + str(sinif_ust_sinirlar[i]) + "\t" + str(sinif_frekanslari[i]))
+    print( str(alt_sinirlar[i]) + " - " + str(ust_sinirlar[i]) + "\t" + str(frekanslar[i]) + "\t" + str(sinif_alt_sinirlar[i]) + " - " + str(sinif_ust_sinirlar[i]) + "\t" + str(sinif_frekanslari[i]) + "\t" + str(sinif_orta_noktalar[i]) + "\t" + str(sinif_eklenik_frekanslari[i]) + "\t" + str(sinif_oransal_frekanslari[i]) + "\t" + str(sinif_eklenik_oransal_frekanslari[i]))
 
 
